@@ -25,7 +25,9 @@ function Index() {
 
 			<Text style={{ textAlign: "center" }}>#####################</Text>
 
-			<Button style={{ margin: 20, backgroundColor: "green", padding: 10, fontSize: 20, color: "black", textAlign: "center", width: 100 }} title="Hello React Native!" color={"red"} />
+			<Button 
+			// style={{ margin: 20, backgroundColor: "green", padding: 10, fontSize: 20, color: "black", textAlign: "center", width: 100 }} 
+			title="Hello React Native!" color={"red"} />
 
 			<Text style={{ textAlign: "center" }}>#####################</Text>
 
