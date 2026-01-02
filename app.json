@@ -1,16 +1,18 @@
 {
   "expo": {
-    "name": "first-app",
-    "slug": "first-app",
+    "name": "Lessons",
+    "slug": "react-native-lesson",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "firstapp",
+    "scheme": "lessons",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
-		"splash":{
-			
-		},
+		"splash": {
+      "image": "./assets/images/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
     "ios": {
       "supportsTablet": true
     },
